@@ -17,7 +17,7 @@ OpenCV was used to create depth maps from the stereo cameras.
 
 Donkey car (3d printed mount on RC car with raspberry pi)
 
-![Donkey car](./docs/car.jpg)
+![Donkey car](./docs/IMG_20200303_092534965.jpg)
 
 Collecting training data on the track
 
@@ -33,4 +33,4 @@ Track with direction
 
 Demo
 
-![Donkey car](./docs/demo.mp4)
+![Donkey car](./docs/demo)
