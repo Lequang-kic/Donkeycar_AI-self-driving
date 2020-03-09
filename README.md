@@ -33,4 +33,4 @@ Track with direction
 
 Demo
 
-![Donkey car](./docs/demo)
+![Donkey car](./docs/demo.mp4)
